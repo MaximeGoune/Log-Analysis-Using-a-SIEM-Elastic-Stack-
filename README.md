@@ -202,7 +202,11 @@ Scroll down to Elasticsearch Output section. Change the value of the hosts to th
 <img src="https://imgur.com/tyQPbcK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
-<img src="https://imgur.com/tyQPbcK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Configure Kibana to Recieve winlogbeats
+<img src="https://imgur.com/QEgrr7B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+
+
 
 
